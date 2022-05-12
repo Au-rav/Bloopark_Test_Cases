@@ -1,0 +1,5 @@
+Correct Answers : 
+
+2.Calling find_students_by_name(students, 'in') returns a list of 2 tuples.
+
+5.The add_new_student function adds a new student in the last place in the list.
